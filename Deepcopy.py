@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 _dispatcher = {}
 
 def _copy_list(l, dispatch):

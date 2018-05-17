@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 from Copy import deepCopy
 
 class GameState(object):

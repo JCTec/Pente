@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 class move(object):
     __x__ = None
     __y__ = None

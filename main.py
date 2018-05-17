@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 from Pente import Pente
 from move import move
 import pygame

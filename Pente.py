@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import pygame
 from move import move
 from pygame.locals import *
@@ -780,9 +781,14 @@ class Pente(object):
 
 
     def undoMove(self):
-        self.moveCount -= 2
-        self.gameMoves.pop()
-        self.gameMoves.pop()
+
+        if not self.gameMoves.isEmpty():
+            self.gameMoves.pop()
+            self.moveCount -= 1
+
+        if not self.gameMoves.isEmpty():
+            self.gameMoves.pop()
+            self.moveCount -= 1
 
         if not self.gameMoves.isEmpty():
             self.board = deepCopy(self.gameMoves.peek().board)

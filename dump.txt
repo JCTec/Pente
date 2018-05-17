@@ -1,0 +1,15 @@
+----------------------Pente--------------------------- 
+Duración de partida: 88.13914768100221 
+Jugadas: 
+1.- Humano X: 9 Y: 9
+2.- Computadora X: 0 Y: 1 Valor: 0
+3.- Humano X: 0 Y: 2
+4.- Computadora X: 0 Y: 4 Valor: 1
+5.- Humano X: 9 Y: 8
+6.- Computadora X: 0 Y: 5 Valor: 1
+7.- Humano X: 9 Y: 7
+8.- Computadora X: 0 Y: 6 Valor: 2
+9.- Humano X: 9 Y: 6
+10.- Computadora X: 0 Y: 7 Valor: 2
+11.- Humano X: 9 Y: 5
+------------------------------------------------------
